@@ -1,2 +1,3 @@
-# platheum
-an open source peer-to-peer internet ubiquitous cryptocurrency
+# Platheum Core [PLTC, PLT]
+
+Platheum is a community-driven new cryptocurrency aiming to be ubiquitous accross to the internet
